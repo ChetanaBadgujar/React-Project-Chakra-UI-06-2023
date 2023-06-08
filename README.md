@@ -1,3 +1,26 @@
+[Visit Site Here](https://react-project-chakra-ui-06-2023.vercel.app)
+
+##Snapshots;
+
+![Screenshot (61)](https://github.com/ChetanaBadgujar/React-Project-Chakra-UI-06-2023/assets/74963213/ec05b53a-a307-45db-83b7-e921c8b5f795)
+
+![Screenshot (62)](https://github.com/ChetanaBadgujar/React-Project-Chakra-UI-06-2023/assets/74963213/cc48d2cb-0c9f-4c32-9ad9-a318793b6b12)
+
+![Screenshot (63)](https://github.com/ChetanaBadgujar/React-Project-Chakra-UI-06-2023/assets/74963213/e4fe4181-eb64-4e76-a503-cb33d2e4aa48)
+
+![Screenshot (64)](https://github.com/ChetanaBadgujar/React-Project-Chakra-UI-06-2023/assets/74963213/9c17b241-93ca-40ad-bf28-7850870cd23a)
+
+![Screenshot (65)](https://github.com/ChetanaBadgujar/React-Project-Chakra-UI-06-2023/assets/74963213/0e6c7283-6e70-4c5d-acf8-12143fbe0dcf)
+
+![Screenshot (66)](https://github.com/ChetanaBadgujar/React-Project-Chakra-UI-06-2023/assets/74963213/3fbe7895-465c-4cb8-bd72-02c43d210f51)
+
+![Screenshot (67)](https://github.com/ChetanaBadgujar/React-Project-Chakra-UI-06-2023/assets/74963213/b5f2f0af-9304-4951-be6b-be4a873cc9f4)
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -1,10 +1,10 @@
-[Visit Site Here](https://react-project-chakra-ui-06-2023.vercel.app)
+# [Visit Site Here](https://react-project-chakra-ui-06-2023.vercel.app)
 
-##Snapshots;
-
-![Screenshot (61)](https://github.com/ChetanaBadgujar/React-Project-Chakra-UI-06-2023/assets/74963213/ec05b53a-a307-45db-83b7-e921c8b5f795)
+## Snapshots of Website:
 
 ![Screenshot (62)](https://github.com/ChetanaBadgujar/React-Project-Chakra-UI-06-2023/assets/74963213/cc48d2cb-0c9f-4c32-9ad9-a318793b6b12)
+
+![Screenshot (70)](https://github.com/ChetanaBadgujar/React-Project-Chakra-UI-06-2023/assets/74963213/53f7d788-51bb-4aec-872b-cba786b2f2ad)
 
 ![Screenshot (63)](https://github.com/ChetanaBadgujar/React-Project-Chakra-UI-06-2023/assets/74963213/e4fe4181-eb64-4e76-a503-cb33d2e4aa48)
 
